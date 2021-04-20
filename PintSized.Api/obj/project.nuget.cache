@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vxgR2qJbgeng/e9aBN7WtG0Ax8LRfJaPVx82bFAm8PzS6xeO+FwvwTXYkUmYCQPnBXBXRSz+zrk4k0EoRKZQFQ==",
+  "success": true,
+  "projectFilePath": "/Users/deanpound/Code/DotNet/pint_sized/PintSized.Api/PintSized.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/deanpound/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/deanpound/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/deanpound/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/deanpound/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/deanpound/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/deanpound/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
