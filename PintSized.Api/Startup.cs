@@ -32,12 +32,11 @@ namespace PintSized.Api
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "PintSized.Api v1"));
-            }
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "PintSized.Api v1"));
+
+            app.UseDeveloperExceptionPage();
+
+            app.UseSwagger();
 
             app.UseHttpsRedirection();
 
